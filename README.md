@@ -7,7 +7,7 @@ this is my first time using the algorithm so it might not be perfect.
 
 The normal index.html uses a QR Code for this website link with ?SHA-CODE at the end, which is then decrypted.
 
-The old old-index.html uses 2 inputs and 2 outputs, 1 for the normal text, 1 for the encrypted text, and 2 for the encrypted text and the decrypted text.
+The old old-index.html uses 2 inputs and 2 outputs, 2 for the input text and input encrypted text, and 2 for the encrypted text and the decrypted text.
 
 ## Library used
 
