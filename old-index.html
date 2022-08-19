@@ -7,16 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"
         integrity="sha256-/H4YS+7aYb9kJ5OKhFYPUjSJdrtV6AeyJOtTkw6X72o=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="./qrcode.min.js"></script>
     <title>Document</title>
 </head>
 
 <body>
-    <div id="qrcode"></div>
-    <h1>Type to encrypt</h1>
+    <h1>Encrypt</h1>
     <input type="text" id="input">
-    <h1 id="info" style="display: none;">⬇ Tell your friend to scan this</h1>
-    <script src="./main.js"></script>
+    <p id=output></p>
+    <h1>Decrypt</h1>
+    <input type="text" id="shaInput">
+    <p id=shaOutput></p>
+
+    <script src="./old-main.js"></script>
 </body>
 
 </html>
