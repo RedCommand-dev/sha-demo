@@ -11,8 +11,8 @@ The old old-index.html uses 2 inputs and 2 outputs, 2 for the input text and inp
 
 ## Library used
 
-This project uses the [cryptojs library](https://cryptojs.gitbook.io/docs/) for the encryption and decryption,
-and the [qrcodejs library](https://github.com/davidshimjs/qrcodejs) for generatign the QR Code.
+This project uses the [cryptojs library](https://cryptojs.gitbook.io/docs/) for the encryption and decryption
+and the [qrcodejs library](https://github.com/davidshimjs/qrcodejs) for generating the QR Code.
 
 <details>
 <summary>Notes</summary>
